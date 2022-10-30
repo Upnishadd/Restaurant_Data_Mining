@@ -1,1 +1,2 @@
 # Restaurant_Data_Mining
+The Victorian Dining and Entertainment Program offers 25% cash back on eligible dining and entertainment purchases across Victoria. Through this program, the Victorian government can harvest millions of dining and entertainment transactions, which are a gold mine of opportunities. The aim of this project was to identify Victorian's dining patterns so as to promote restaurants and help with the recovery of the local business. Here, we focus just on dining to simplify the assignment setting.
